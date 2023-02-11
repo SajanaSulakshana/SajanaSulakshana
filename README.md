@@ -1,4 +1,4 @@
-### <imag src = "https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png">
+### <img src = "https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png">
 <h1 align="center">Hi 👋, I'm Sajana Sulakshana</h1>
 <h3 align="center">Im In Student of Institute of java Software Engineering(IJSE)</h3>
 
