@@ -1,4 +1,11 @@
-### <img src = "https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png">
+### <img src = "https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png"><h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sajana sulakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajana sulakshana" height="30" width="40" /></a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Sajana Sulakshana</h1>
 <h3 align="center">Im In Student of Institute of java Software Engineering(IJSE)</h3>
 
